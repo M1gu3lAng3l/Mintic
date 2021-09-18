@@ -1,0 +1,2 @@
+# Mintic
+Proyecto Mintic Backend
